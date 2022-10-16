@@ -6,5 +6,24 @@
     "verifier": "Ryoui",
     "verification": "https://youtu.be/8acljkSdbdM",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "Riptide",
+            "link": "https://www.youtube.com/watch?v=muOS0yTdFK0",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Bnuuy",
+            "link": "https://www.youtube.com/watch?v=Ag4YLX1y8q0",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "BrightBird",
+            "link": "https://www.youtube.com/watch?v=kXh5Bq7dzV0",
+            "percent": 100,
+            "hz": 288
+        }
+    ]
 }
