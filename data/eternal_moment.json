@@ -1,0 +1,23 @@
+{
+    "id": 83407310,
+    "name": "Shitty Eternal Moment",
+    "author": "sarcasticmuch",
+    "creators": ["sarcasticmuch"],
+    "verifier": "Dandy Chiggins",
+    "verification": "https://youtu.be/3LEpXjCSRtA",
+    "percentToQualify": 62,
+    "records": [
+        {
+            "user": "KylashTheKiller",
+            "link": "https://youtu.be/4aSUI-yd1iw",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "BrightBird",
+            "link": "https://www.youtube.com/watch?v=bB8-Kkaraw4",
+            "percent": 100,
+            "hz": 288
+        }
+    ]
+}
