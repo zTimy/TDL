@@ -1,4 +1,4 @@
-# Welcome to the maintained Geometry Dash Shitty List repo!
+# Welcome to the maintained Geometry Dash Cabin List repo!
 
 # FAQ
 
@@ -69,10 +69,8 @@ Can i submit Multiple levels on 1 video?
 
 ## Owners:
 
-- Bluestone
-- JustCrust
-- Microwaveee
-- Davine_007
+- Bamvie
+- RevueGD
 
 ---
 
