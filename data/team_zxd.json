@@ -6,5 +6,12 @@
     "verifier": "Rain22",
     "verification": "https://www.youtube.com/watch?v=zu21_854jXg&feature=emb_title",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "IDeltaPhantomI",
+            "link": "https://www.youtube.com/watch?v=laQRSrVVCZ0&list=PLzfteG-NDcdae-Yw9hI4v4v7JnhbK1AwM&index=21",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
 }
