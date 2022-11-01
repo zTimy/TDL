@@ -6,5 +6,12 @@
     "verifier": "Wingless",
     "verification": "https://www.youtube.com/watch?v=dHn4CbB0xTI",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "IDeltaPhantomI",
+            "link": "https://www.youtube.com/watch?v=7g7-nDEWHqY&list=PLzfteG-NDcdae-Yw9hI4v4v7JnhbK1AwM&index=26",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
 }
