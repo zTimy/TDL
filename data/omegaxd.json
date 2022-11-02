@@ -1,0 +1,17 @@
+{
+    "id": 74803822,
+    "name": "Omega",
+    "author": "MindCap",
+    "creators": [],
+    "verifier": "xander",
+    "verification": "https://www.youtube.com/watch?v=VqOMZLoiwAs&feature=emb_title",
+    "percentToQualify": 100,
+    "records": [
+    {
+            "user": "skeeb",
+            "link": "https://www.youtube.com/watch?v=_X35zu8FJWc",
+            "percent": 100,
+            "hz": 288
+        }
+    ]
+}
