@@ -6,5 +6,12 @@
     "verifier": "Zeroya",
     "verification": "https://www.youtube.com/watch?v=LyMplFv8txY&feature=emb_title",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "IDeltaPhantomI",
+            "link": "https://www.youtube.com/watch?v=2evNNc0OGxw&list=PLzfteG-NDcdae-Yw9hI4v4v7JnhbK1AwM&index=31",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
 }
