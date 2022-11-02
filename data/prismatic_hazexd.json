@@ -12,6 +12,18 @@
             "link": "https://www.youtube.com/watch?v=O1bykaem1Kc&list=PLzfteG-NDcdae-Yw9hI4v4v7JnhbK1AwM&index=36",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Timy",
+            "link": "https://youtu.be/fUnoM1qbybk",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "RevueGD",
+            "link": "https://www.youtube.com/watch?v=dQwpeW3H0BE&t=1s",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
