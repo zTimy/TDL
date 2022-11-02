@@ -6,5 +6,12 @@
     "verifier": "Vorgogne",
     "verification": "https://www.youtube.com/watch?v=1fzhBT_7Fos",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "Bamvie",
+            "link": "https://www.youtube.com/watch?v=T384rtdv-5U",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }

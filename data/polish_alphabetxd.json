@@ -1,0 +1,17 @@
+{
+    "id": 74803822,
+    "name": "Polish Alphabet",
+    "author": "Patchimator",
+    "creators": [],
+    "verifier": "BlazeRol",
+    "verification": "https://www.youtube.com/watch?v=NXV3nDr1z2M&feature=emb_title",
+    "percentToQualify": 100,
+    "records": [
+    {
+            "user": "IDeltaPhantomI",
+            "link": "https://www.youtube.com/watch?v=IS25-q9lS8I&list=PLzfteG-NDcdae-Yw9hI4v4v7JnhbK1AwM&index=49",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

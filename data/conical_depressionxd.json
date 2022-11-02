@@ -6,5 +6,12 @@
     "verifier": "KramL",
     "verification": "https://youtu.be/SceLphS8v-k",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "IDeltaPhantomI",
+            "link": "https://www.youtube.com/watch?v=D1LKptl7lTc&list=PLzfteG-NDcdae-Yw9hI4v4v7JnhbK1AwM&index=35",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
 }

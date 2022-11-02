@@ -1,0 +1,17 @@
+{
+    "id": 74803822,
+    "name": "Napalm",
+    "author": "Marwec",
+    "creators": [],
+    "verifier": "Luqualizer",
+    "verification": "https://www.youtube.com/watch?v=ND--Ai4XVfM",
+    "percentToQualify": 100,
+    "records": [
+    {
+            "user": "IDeltaPhantomI",
+            "link": "https://www.youtube.com/watch?v=-Epz9Pvb4HA&list=PLzfteG-NDcdae-Yw9hI4v4v7JnhbK1AwM&index=60",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

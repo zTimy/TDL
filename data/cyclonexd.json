@@ -1,0 +1,29 @@
+{
+    "id": 74803822,
+    "name": "Cyclone",
+    "author": "Bianox",
+    "creators": [],
+    "verifier": "Zeroya",
+    "verification": "https://www.youtube.com/watch?v=LyMplFv8txY&feature=emb_title",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "IDeltaPhantomI",
+            "link": "https://www.youtube.com/watch?v=2evNNc0OGxw&list=PLzfteG-NDcdae-Yw9hI4v4v7JnhbK1AwM&index=31",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Bamvie",
+            "link": "https://www.youtube.com/watch?v=gUfi4glDP-g&t=6s",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Timy",
+            "link": "https://youtu.be/KwmhRfOA4q8",
+            "percent": 100,
+            "hz": 360
+        }   
+    ]
+}
