@@ -1,0 +1,17 @@
+{
+    "id": 74803822,
+    "name": "Ragnarok",
+    "author": "knobbelboy",
+    "creators": [],
+    "verifier": "Technical",
+    "verification": "https://www.youtube.com/watch?v=aGtXqn9HL2o",
+    "percentToQualify": 100,
+    "records": [
+    {
+            "user": "skeeb",
+            "link": "https://www.youtube.com/watch?v=mMbAZdi0Svo",
+            "percent": 100,
+            "hz": 288
+        }
+    ]
+}
