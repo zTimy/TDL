@@ -6,5 +6,12 @@
     "verifier": "Gokill GD",
     "verification": "https://www.youtube.com/watch?v=6L8bv6odUmY",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+    {
+            "user": "Vainy",
+            "link": "https://youtu.be/R5V2WqPT27Q",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
 }
