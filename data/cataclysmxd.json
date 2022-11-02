@@ -30,6 +30,12 @@
             "link": "https://www.youtube.com/watch?v=3fOA13FrjPQ",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Trafic Light",
+            "link": "https://youtu.be/FOhnT_KAuQk",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
