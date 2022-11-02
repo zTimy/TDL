@@ -6,5 +6,18 @@
     "verifier": "Dorami",
     "verification": "https://www.youtube.com/watch?v=7sUqs0NjjHM",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+    {
+            "user": "Vallem",
+            "link": "https://www.youtube.com/watch?v=37HgFd0qtZ0",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "RevueGD",
+            "link": "https://www.youtube.com/watch?v=rTzXNE3cpP8&t=28s",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }
