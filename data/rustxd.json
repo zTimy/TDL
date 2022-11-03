@@ -6,6 +6,13 @@
     "verifier": "Keir",
     "verification": "https://www.youtube.com/watch?v=mEXGlrNMyR4",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "zSkay",
+            "link": "https://www.youtube.com/watch?v=PpQ3xOuWhLU&list=PL4cvxRc3I3YEHHSXYcGO0kzQAHavJA5Nr&index=4",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }
     

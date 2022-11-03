@@ -7,11 +7,17 @@
     "verification": "https://www.youtube.com/watch?v=5HXK3TFG1H4",
     "percentToQualify": 100,
     "records": [
-    {
+        {
             "user": "IDeltaPhantomI",
             "link": "https://www.youtube.com/watch?v=KRFtRRxTeH8&list=PLzfteG-NDcdae-Yw9hI4v4v7JnhbK1AwM&index=48",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "zSkay",
+            "link": "https://www.youtube.com/watch?v=PpQ3xOuWhLU&list=PL4cvxRc3I3YEHHSXYcGO0kzQAHavJA5Nr&index=22",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
