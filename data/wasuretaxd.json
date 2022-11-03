@@ -7,7 +7,7 @@
     "verification": "https://www.youtube.com/watch?v=9jkCtNDbDt0&t=1s",
     "percentToQualify": 100,
     "records": [
-    {
+        {
             "user": "Timy",
             "link": "https://www.youtube.com/watch?v=9FSh3Veb_F0",
             "percent": 100,
@@ -16,6 +16,12 @@
         {  
             "user": "RevueGD",
             "link": "https://www.youtube.com/watch?v=treQ5oocwwU",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "zSkay",
+            "link": "https://www.youtube.com/watch?v=PpQ3xOuWhLU&list=PL4cvxRc3I3YEHHSXYcGO0kzQAHavJA5Nr&index=9",
             "percent": 100,
             "hz": 360
         }
