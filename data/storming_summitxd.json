@@ -1,0 +1,17 @@
+{
+    "id": 74803822,
+    "name": "Storming Summit",
+    "author": "Nimbus",
+    "creators": [],
+    "verifier": "Ozzy",
+    "verification": "https://www.youtube.com/watch?v=ymmMnZLpfQU",
+    "percentToQualify": 100,
+    "records": [
+    {
+            "user": "skeeb",
+            "link": "https://www.youtube.com/watch?v=T1bTUeqztng",
+            "percent": 100,
+            "hz": 288
+        }
+    ]
+}

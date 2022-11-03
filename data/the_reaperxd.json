@@ -1,0 +1,17 @@
+{
+    "id": 74803822,
+    "name": "The Reaper",
+    "author": "Kyhros",
+    "creators": [],
+    "verifier": "Teno",
+    "verification": "https://www.youtube.com/watch?v=DKJ82-LThkM&feature=emb_title",
+    "percentToQualify": 100,
+    "records": [
+    {
+            "user": "skeeb",
+            "link": "https://www.youtube.com/watch?v=rQXcPMI-z24&t=7s",
+            "percent": 100,
+            "hz": 288
+        }
+    ]
+}

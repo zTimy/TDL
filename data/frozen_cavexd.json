@@ -1,0 +1,17 @@
+{
+    "id": 74803822,
+    "name": "Frozen Cave",
+    "author": "theParadoxTeam",
+    "creators": [],
+    "verifier": "khrizmass",
+    "verification": "https://www.youtube.com/watch?v=BFaqgkw-Hg0&feature=emb_title",
+    "percentToQualify": 100,
+    "records": [
+    {
+            "user": "skeeb",
+            "link": "https://www.youtube.com/watch?v=QfVQyB_vCCA",
+            "percent": 100,
+            "hz": 288
+        }
+    ]
+}
