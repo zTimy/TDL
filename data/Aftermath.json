@@ -1,0 +1,17 @@
+{
+    "id": 69299628,
+    "name": "Aftermath",
+    "author": "TrollFaceDash",
+    "creators": [],
+    "verifier": "DaMeister",
+    "verification": "https://www.youtube.com/watch?v=iLCcJyh5c5k",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "RevueGD",
+            "link": "https://www.youtube.com/watch?v=3s_oxsttMb0",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
