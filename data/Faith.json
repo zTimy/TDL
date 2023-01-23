@@ -1,0 +1,17 @@
+{
+    "id": 72189223,
+    "name": "Faith",
+    "author": "ZeroSR",
+    "creators": [],
+    "verifier": "Technical",
+    "verification": "https://www.youtube.com/watch?v=47JIktHYKIE",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "RevueGD",
+            "link": "https://www.youtube.com/watch?v=wvSmxpwzBE4&t=6s",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
