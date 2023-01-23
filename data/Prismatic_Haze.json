@@ -1,0 +1,17 @@
+{
+    "id": 78470229,
+    "name": "Prismatic Haze",
+    "author": "Cirtrax",
+    "creators": [],
+    "verifier": "Gizbro",
+    "verification": "https://www.youtube.com/watch?v=RS5ZFcuaw3I&feature=emb_title",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "RevueGD",
+            "link": "https://www.youtube.com/watch?v=dQwpeW3H0BE&t=1s",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
