@@ -69,14 +69,13 @@ Can i submit Multiple levels on 1 video?
 
 ## Owners:
 
-- Bamvie
 - RevueGD
 
 ---
 
 ## List Admins:
 
-- TravelChimp
+- Netermind
 
 ## Server Administrators:
 
@@ -84,26 +83,13 @@ Can i submit Multiple levels on 1 video?
 
 ## List Helpers:
 
-- KylashTheKiller
-- Achlys
-- homegrowntag
-- asmallsock
-- Ryoui
-
 ---
 
-## Server Moderators:
 
-- LBoke
-- frigusterio
-- Prometheus
-- Nolife
-- Ryoui
+## Server Moderators:
 
 ---
 
 ## Repo Maintainers:
 
-- Electro
-- Prometheus
-- Emonadeo
+---
