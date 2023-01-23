@@ -1,0 +1,17 @@
+{
+    "id": 79209711,
+    "name": "Deception Dive",
+    "author": "Rustam",
+    "creators": [],
+    "verifier": "Berke423",
+    "verification": "https://www.youtube.com/watch?v=A6xBC52UN4M",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "RevueGD",
+            "link": "https://www.youtube.com/watch?v=TX7LfEVkn5k&t=25s",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
