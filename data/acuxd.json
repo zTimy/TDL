@@ -8,22 +8,10 @@
     "percentToQualify": 100,
     "records": [
         {
-            "user": "Vainy",
-            "link": "https://youtu.be/XybN8l22ito",
+            "user": "RevueGD",
+            "link": "https://www.youtube.com/watch?v=qO5-llxVJ04&list=PLwF79nT0us-McTADRF-6kUYc7CBvDiL3c&index=24",
             "percent": 100,
-            "hz": 60
-        }, 
-        {
-            "user": "IDeltaPhantomI",
-            "link": "https://www.youtube.com/watch?v=yZVqXeG8_UQ&t=5s",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Vallem",
-            "link": "https://youtu.be/wVNzzF68yi0",
-            "percent": 100,
-            "hz": 240
+            "hz": 360
         }
     ]
 }
