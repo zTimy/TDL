@@ -1,0 +1,17 @@
+{
+    "id": 80070981,
+    "name": "Wasureta",
+    "author": "Augi",
+    "creators": [],
+    "verifier": "Vapor",
+    "verification": "https://www.youtube.com/watch?v=9jkCtNDbDt0",
+    "percentToQualify": 100,
+    "records": [
+        {
+           "user": "RevueGD",
+            "link": "https://www.youtube.com/watch?v=treQ5oocwwU&t=17s",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
