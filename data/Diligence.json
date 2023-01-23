@@ -8,13 +8,7 @@
     "percentToQualify": 100,
     "records": [
         {
-            "user": "Bamvie",
-            "link": "https://www.youtube.com/watch?v=cBljiQrb8uY&t=7s",
-            "percent": 100,
-            "hz": 60
-        },
-        {
-             "user": "RevueGD",
+            "user": "RevueGD",
             "link": "https://www.youtube.com/watch?v=RwO66vKPQeM",
             "percent": 100,
             "hz": 360
