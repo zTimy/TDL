@@ -1,0 +1,17 @@
+{
+    "id": 78632408,
+    "name": "Reverence",
+    "author": "Woom",
+    "creators": [],
+    "verifier": "Crazen",
+    "verification": "https://www.youtube.com/watch?v=p4kmMiu7elk",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "RevueGD",
+            "link": "https://www.youtube.com/watch?v=qkPqplHZ8QU&t=1s",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
