@@ -1,12 +1,12 @@
 [
     {
         "role": "owner",
-        "name": "Bamvie",
-        "link": "https://www.youtube.com/channel/UCmMCA-MNUue76tPlisuaTLg"
-    },
-    {
-        "role": "owner",
         "name": "RevueGD",
         "link": "https://www.youtube.com/channel/UCJBj9w-cQyvJILDrONKd75g"
+    },
+    {
+        "role": "admin",
+        "name": "Netermind",
+        "link": "https://www.youtube.com/@netermind9357"
     }
 ]
