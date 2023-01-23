@@ -1,0 +1,17 @@
+{
+    "id": 80070981,
+    "name": "Kuzureta",
+    "author": "Teno",
+    "creators": [],
+    "verifier": "Teno",
+    "verification": "https://www.youtube.com/watch?v=Z7NLOIyjbhU",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "RevueGD",
+            "link": "https://www.youtube.com/watch?v=hyaHqLiwM54&list=PLwF79nT0us-Ok9RmuUnQzJVFfPAEVOZLy&index=2",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
