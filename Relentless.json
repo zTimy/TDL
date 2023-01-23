@@ -1,0 +1,17 @@
+{
+    "id": 74803822,
+    "name": "Relentless",
+    "author": "Surjaco",
+    "creators": [],
+    "verifier": "Fierce",
+    "verification": "https://www.youtube.com/watch?v=8qQZ0n_R7Ec",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "RevueGD",
+            "link": "https://www.youtube.com/watch?v=RRCXCxPq5y0&t=89s",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
