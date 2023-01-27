@@ -1,0 +1,17 @@
+{
+    "id": 74803822,
+    "name": "Welcome to GD News",
+    "author": "Vortox",
+    "creators": [],
+    "verifier": "Technical",
+    "verification": "https://www.youtube.com/watch?v=V3q6QA5lz",
+    "percentToQualify": 100,
+    "records": [
+    {
+            "user": "Vainy",
+            "link": "https://www.youtube.com/watch?v=57rpOoGPa7k&t=2s",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
