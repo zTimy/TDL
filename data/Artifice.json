@@ -1,0 +1,17 @@
+{
+    "id": 66545563,
+    "name": "Artifice",
+    "author": "F3lixram",
+    "creators": [],
+    "verifier": "F3lixram",
+    "verification": "https://youtu.be/AuAdGf4yeYY",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Bamvie",
+            "link": "https://youtu.be/2GhreRtXzKU",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
