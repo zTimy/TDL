@@ -1,0 +1,17 @@
+{
+    "id": 82037522,
+    "name": "Broken Signal",
+    "author": "Grax",
+    "creators": [],
+    "verifier": "???",
+    "verification": "https://youtu.be/hE4unVwBeD8",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Bamvie",
+            "link": "https://youtu.be/9zJ_o9QljX4",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
