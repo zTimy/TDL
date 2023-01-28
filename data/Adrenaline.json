@@ -1,0 +1,17 @@
+{
+    "id": 74803822,
+    "name": "Adrenaline",
+    "author": "Wapon77",
+    "creators": [],
+    "verifier": "MrSpaghetti",
+    "verification": "https://youtu.be/aBUGuBQQi2g",
+    "percentToQualify": 100,
+    "records": [
+    {
+            "user": "Bamvie",
+            "link": "https://youtu.be/WICz0bUc97g",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
