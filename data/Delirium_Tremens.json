@@ -1,0 +1,17 @@
+{
+    "id": 74803822,
+    "name": "Delirium Tremens",
+    "author": "Vadi",
+    "creators": [],
+    "verifier": "Drewch // empress",
+    "verification": "https://www.youtube.com/watch?v=xMx1EHmmzxc",
+    "percentToQualify": 100,
+    "records": [
+    {
+            "user": "Timy",
+            "link": "https://www.youtube.com/watch?v=AAV5TnBA6KM",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}
