@@ -1,0 +1,17 @@
+{
+    "id": 74803822,
+    "name": "Shotgun",
+    "author": "SpinStudios",
+    "creators": [],
+    "verifier": "YakobNugget",
+    "verification": "https://www.youtube.com/watch?v=DAzkPVvj8Vo",
+    "percentToQualify": 100,
+    "records": [
+    {
+            "user": "Bamvie",
+            "link": "https://www.youtube.com/watch?v=HklbUjwEVIg&list=PLGraLImaXnZDzL-Vr0m4ML_IcsQhV1XuM&index=1&t=10s",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
