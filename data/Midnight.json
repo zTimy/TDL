@@ -1,0 +1,17 @@
+{
+    "id": 96083028,
+    "name": "Midnight",
+    "author": "zYuko",
+    "creators": [],
+    "verifier": "nei",
+    "verification": "https://www.youtube.com/watch?v=NhkN_a9cNi8",
+    "percentToQualify": 74,
+    "records": [
+        {
+            "user": "Netermind",
+            "link": "https://www.youtube.com/watch?v=ozapgKE9LLU&t=6s",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
