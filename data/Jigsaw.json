@@ -1,0 +1,17 @@
+{
+    "id": 95031870,
+    "name": "Jigsaw",
+    "author": "TrollMachine",
+    "creators": [],
+    "verifier": "Nekon",
+    "verification": "https://www.youtube.com/watch?v=FPfSqlI0T30&source_ve_path=OTY3MTQ",
+    "percentToQualify": 70,
+    "records": [
+    {
+            "user": "Bamvie",
+            "link": "https://www.youtube.com/watch?v=N1MogHZRY7w",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
