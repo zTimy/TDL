@@ -1,0 +1,23 @@
+{
+    "id": 88203501,
+    "name": "UNKNOWN",
+    "author": "NineDice",
+    "creators": [],
+    "verifier": "Diamond",
+    "verification": "https://www.youtube.com/watch?v=a1sQxQqU6EM",
+    "percentToQualify": 83,
+    "records": [
+        {
+            "user": "Netermind",
+            "link": "https://www.youtube.com/watch?v=AEHm4MYdMQw",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "1ssky",
+            "link": "https://www.youtube.com/watch?v=Z78ZELgB9xQ&t=12s",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
