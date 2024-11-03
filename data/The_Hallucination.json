@@ -1,0 +1,17 @@
+{
+    "id": 81139702,
+    "name": "The Hallucination",
+    "author": "SyQual",
+    "creators": [],
+    "verifier": "Votchi",
+    "verification": "https://www.youtube.com/watch?v=tYbXsNkO9HE",
+    "percentToQualify": 66,
+    "records": [
+        {
+            "user": "Netermind",
+            "link": "https://www.youtube.com/watch?v=1LSt1AACHR0&t=18s",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
