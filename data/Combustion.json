@@ -1,0 +1,17 @@
+{
+    "id": 94359172,
+    "name": "Combustion",
+    "author": "Cersia",
+    "creators": [],
+    "verifier": "Slithiun",
+    "verification": "https://www.youtube.com/watch?v=3cTR4XUcA28",
+    "percentToQualify": 76,
+    "records": [
+    {
+            "user": "Netermind",
+            "link": "https://www.youtube.com/watch?v=f3Wy2tusGXk&t=22s",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
