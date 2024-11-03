@@ -1,0 +1,23 @@
+{
+    "id": 75286957,
+    "name": "Shukketsu",
+    "author": "zYuko",
+    "creators": [],
+    "verifier": "Baeru",
+    "verification": "https://www.youtube.com/watch?v=nkG4hKJIz2g",
+    "percentToQualify": 78,
+    "records": [
+        {
+            "user": "Timy",
+            "link": "https://www.youtube.com/watch?v=wZGrnFxlShY",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Netermind",
+            "link": "https://www.youtube.com/watch?v=f6sCGOqQEtI",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
