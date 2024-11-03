@@ -1,0 +1,17 @@
+{
+    "id": 58161496,
+    "name": "Renevant",
+    "author": "nikroplays",
+    "creators": [],
+    "verifier": "rori",
+    "verification": "https://youtu.be/2Y8kBw8YxO8",
+    "percentToQualify": 74,
+    "records": [
+        { 
+            "user": "Timy",
+            "link": "https://youtu.be/SvakGR8SJTM",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
