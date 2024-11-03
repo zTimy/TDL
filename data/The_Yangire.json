@@ -1,0 +1,23 @@
+{
+    "id": 110500920,
+    "name": "The_Yangire",
+    "author": "Dorami",
+    "creators": [],
+    "verifier": "Dorami",
+    "verification": "https://www.youtube.com/watch?v=V3FjIorIfWg",
+    "percentToQualify": 73,
+    "records": [
+        {
+            "user": "Bamvie",
+            "link": "https://www.youtube.com/watch?v=XZEc_-9BfOM",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Netermind",
+            "link": "https://www.youtube.com/watch?v=XR6gNxzt1Kk",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
