@@ -1,0 +1,17 @@
+{
+    "id": 88442157,
+    "name": "Critical Heat",
+    "author": "Zeniux",
+    "creators": [],
+    "verifier": "hstorm",
+    "verification": "https://youtu.be/UjYIt2jy_BY",
+    "percentToQualify": 69,
+    "records": [
+        {
+            "user": "Timy",
+            "link": "https://youtu.be/g-EoaUhtCoo",
+            "percent": 100,
+            "hz": 480
+        }
+    ]
+}
