@@ -1,15 +1,15 @@
 {
-    "id": 80070981,
-    "name": "Kuzureta",
-    "author": "Teno",
+    "id": 110815379,
+    "name": "Spectre",
+    "author": "Xander",
     "creators": [],
-    "verifier": "Teno",
+    "verifier": "PersonHuman42",
     "verification": "https://www.youtube.com/watch?v=Z7NLOIyjbhU",
-    "percentToQualify": 100,
+    "percentToQualify": 75,
     "records": [
         {
-            "user": "RevueGD",
-            "link": "https://www.youtube.com/watch?v=hyaHqLiwM54&list=PLwF79nT0us-Ok9RmuUnQzJVFfPAEVOZLy&index=2",
+            "user": "Netermind",
+            "link": "https://www.youtube.com/watch?v=M2XpQBy081E&list=PLjJuI0H1W47eDVw_P-HamigreVDIJV6EV&index=2",
             "percent": 100,
             "hz": 360
         }
